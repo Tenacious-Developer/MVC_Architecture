@@ -12,9 +12,9 @@
 
 ![enter image description here](https://www.freecodecamp.org/news/content/images/size/w1600/2021/04/MVC3.png)
 
-For large projects, We divide MVC in more fine layer architecture likte these follows:
+For large projects, We divide MVC in more fine layer architecture like these follows:
 
-![enter image description here](https://www.freecodecamp.org/news/content/images/size/w1600/2021/04/MVC3.png)
+![enter image description here]([https://www.freecodecamp.org/news/content/images/size/w1600/2021/04/MVC3.png](https://photos.google.com/search/_tra_/photo/AF1QipOYglWj-9rn9Y4J0tiJshP8uyeP8Sr4eQr1wpFD))
 
 ## Controller
 [Middleware Docs](https://expressjs.com/en/guide/writing-middleware.html) 
